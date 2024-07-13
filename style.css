@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(151, 150, 79);
+}
+body
+div.topbar{
+    text-align: center;
+    background-color: rgb(35, 35, 149);
+    margin: 20px;
+    padding: 15px;
+    text-size-adjust: large;
+    
+    font-size: xx-large;
+}
+.letter-a{
+    color: rgb(47, 239, 8);
+}
+.letter-b{
+    color: red;
+}
+.letter-c{
+    color: yellow;
+}
+.book{
+    color: aqua;
+}
+div.alphabets{
+    text-align: center;
+    background-color: rgb(222, 126, 16);
+    padding: 15px;
+    margin: 20px; 
+    
+}
+div.main-content{
+    text-align: center;
+    font-size: large;
+}
